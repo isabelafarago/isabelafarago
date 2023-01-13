@@ -4,4 +4,8 @@
 - 💞️ I’m looking to collaborate on my on future for now, i just want to learn more out of college.
 - 📫 How to reach me: @isabelafarago on instagram :).
 
-(https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<div align="center">
+  <a href="https://github.com/isabelafaragov">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isabelafarago-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelafarago&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
