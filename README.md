@@ -2,21 +2,20 @@
 - Sou estudante no Instituto Federal do Tocantins - Sistemas para internet
 - Java, python, angular, flutter Android e IOS, js, Node, UX/UI disign também!
 -Línguas: 🇧🇷 🇫🇷 🇮🇹 🇺🇸 
-- @isabelafarago on instagram :).
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
-  img align="center" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/flutter-plain.svg">
-   <img align="center" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/nodejs-plain.svg">
-  
-  
+  <img align="center" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   
   
