@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="center" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/flutter-original.svg">
   
   
   
