@@ -23,7 +23,8 @@ I am a passionate developer who loves to create meaningful and innovative soluti
 
 Here are some of the technologies and tools I work with:
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" 
@@ -32,8 +33,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img align="center" height="30" width="40"
+src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png)">
+   <img align="center" height="30" width="40"
+src="">
+  <img align="center" height="30" width="40"
+src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png">
+  <img align="center" height="30" width="40"
+src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
   
+  
+
 ## 📫 Let's Connect
 I'm always excited to connect with fellow developers, enthusiasts, and learners. You can find me on:
 
