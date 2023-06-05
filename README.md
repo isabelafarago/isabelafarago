@@ -5,11 +5,12 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce my
 ## 🧚	 About Me
 
 I am a passionate developer who loves to create meaningful and innovative solutions. I constantly strive to expand my knowledge and sharpen my skills.
--🤖 Pronouns: She/her
--💼 Currently working as Software analiyst/ Developer
--🎓 Graduating in Internet Systems
--🌍 Based in Brazil
--👽: 🇧🇷 🇫🇷 🇮🇹 🇺🇸 
+
+- 🤖 Pronouns: She/her
+- 💼 Currently working as Software analiyst/ Developer
+- 🎓 Graduating in Internet Systems
+- 🌍 Based in Brazil
+- 👽: 🇧🇷 🇫🇷 🇮🇹 🇺🇸 
 
 ## 💻 What I Do
 
